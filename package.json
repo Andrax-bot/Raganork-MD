@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md",
+  "name": "╬☬𝐓𝐞𝐠𝐚❖𝐁𝐢𝐥𝐥𝐢𝐨𝐧-𝐳☬",
   "version": "4.0.0",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Raganork Whatsapp Bot- Multi Device Version.",
   "scripts": {
     "start": "pm2 start . --attach --name Raganork"
   },
@@ -14,7 +14,7 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
+  "author": "╬☬𝐓𝐞𝐠𝐚❖𝐁𝐢𝐥𝐥𝐢𝐨𝐧-𝐳☬",
   "developer": "@souravkl11",
   "license": "GPL-3.0-or-later",
   "homepage": "https://github.com/souravkl11/raganork#readme",
